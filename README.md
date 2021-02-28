@@ -1,2 +1,2 @@
-# CV_CIFAR_TransferLearning
-My CV project using transfer learning and data augmentation
+# CV_Classify_TransferLearning
+My CV classify project using transfer learning and data augmentation
